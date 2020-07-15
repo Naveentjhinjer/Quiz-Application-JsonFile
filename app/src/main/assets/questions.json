@@ -1,0 +1,44 @@
+{
+"questions":[
+   {
+      "question": "Which is the first planet in our Solar system?",
+      "answer1": "Mercury",
+      "answer2": "Venus",
+      "answer3": "Mars",
+      "answer4": "Earth",
+      "correct": "Mercury"
+   },
+ {
+      "question": "Which is the Second planet in our Solar system?",
+      "answer1": "Mercury",
+      "answer2": "Venus",
+      "answer3": "Jupiter",
+      "answer4": "Saturn",
+      "correct": "Venus"
+   },
+  {
+      "question": "Which is the third planet in our Solar system?",
+      "answer1": "Uranus",
+      "answer2": "Venus",
+      "answer3": "Mars",
+      "answer4": "Earth",
+      "correct": "Earth"
+   },
+ {
+      "question": "Which is the fourth planet in our Solar system?",
+      "answer1": "Jupiter",
+      "answer2": "Saturn",
+      "answer3": "Mars",
+      "answer4": "Earth",
+      "correct": "Mars"
+   },
+  {
+      "question": "Which is the fivth planet in our Solar system?",
+      "answer1": "Mercury",
+      "answer2": "Saturn",
+      "answer3": "Mars",
+      "answer4": "Jupiter",
+      "correct": "Mercury"
+   }
+]
+}
